@@ -210,7 +210,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 'android-19'
-    defaultConfig { minSdkVersion 16 }
+    defaultConfig { minSdkVersion 18 }
 }
 
 repositories {
